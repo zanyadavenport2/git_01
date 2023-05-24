@@ -23,4 +23,4 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+<!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
